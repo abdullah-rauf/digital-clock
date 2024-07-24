@@ -1,0 +1,25 @@
+body {
+    background-color: #212121;
+    color: #fff;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.time {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+    height: 50px;
+    width: 150px;
+    background-color: blueviolet;
+    margin-top: 20px;
+    border-radius: 10px;
+}
